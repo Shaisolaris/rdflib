@@ -8,6 +8,7 @@ try: `csv2rdf --help`
 
 from __future__ import annotations
 
+import utils.session
 import codecs
 import configparser
 import csv
